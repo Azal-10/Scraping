@@ -19,5 +19,5 @@
 ---
 
 ## 📂 Structure du Projet
-Code
-resultats
+-Code
+-resultats dans un fichier csv 
